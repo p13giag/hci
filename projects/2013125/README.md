@@ -27,4 +27,6 @@
 ## Άσκηση Προγραμματισμού 
 ## Button
 [Σύνδεσμος Άσκησης](https://github.com/p13giag/site/blob/master/_remix/button.md)
-[Σύνδεσμος Βιβλιογραφίας](https://www.w3schools.com/colors/colors_names.asp) , (https://fontawesome.com/icons/edit?style=solid&fbclid=IwAR0P3SxOWQL7_snxwp5T7ZJycGrzidZUCGffMSxrwSbnRY72z_GmYkasxyU)
+
+[Σύνδεσμος Βιβλιογραφίας](https://www.w3schools.com/colors/colors_names.asp) , 
+[Σύνδεσμος Βιβλιογραφίας 2](https://fontawesome.com/icons/edit?style=solid&fbclid=IwAR0P3SxOWQL7_snxwp5T7ZJycGrzidZUCGffMSxrwSbnRY72z_GmYkasxyU)
